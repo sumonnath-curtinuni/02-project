@@ -1,0 +1,51 @@
+{
+  "assessments": [
+    {
+      "id": "A001",
+      "unit": "ISYS5002",
+      "title": "Programming Project",
+      "due_date": "2026-10-09",
+      "weight": 40.0,
+      "estimated_hours": 24.0,
+      "progress": 55.0,
+      "created": "2026-09-20"
+    },
+    {
+      "id": "A002",
+      "unit": "DATA5001",
+      "title": "Data Analysis Report",
+      "due_date": "2026-10-15",
+      "weight": 30.0,
+      "estimated_hours": 14.0,
+      "progress": 25.0,
+      "created": "2026-09-21"
+    },
+    {
+      "id": "A003",
+      "unit": "MGMT5002",
+      "title": "Case Study",
+      "due_date": "2026-10-22",
+      "weight": 25.0,
+      "estimated_hours": 10.0,
+      "progress": 10.0,
+      "created": "2026-09-22"
+    }
+  ],
+  "sessions": [
+    {
+      "assessment_id": "A001",
+      "date": "2026-09-23",
+      "minutes": 80,
+      "note": "Planned functions and file structure"
+    },
+    {
+      "assessment_id": "A001",
+      "date": "2026-09-24",
+      "minutes": 95,
+      "note": "Implemented and tested core calculations"
+    }
+  ],
+  "settings": {
+    "daily_capacity_hours": 3.0
+  }
+}
